@@ -7,7 +7,7 @@ This project presents a highly interactive and insightful sales dashboard built 
 
 
 ## 📊 Dashboard Preview
-<img width="1437" height="802" alt="Screenshot 2025-08-22 135221" src="https://github.com/user-attachments/assets/64eb9dd0-89f8-4bf0-9ce3-5a5bea735f3f" />)  
+<img width="1437" height="802" alt="Screenshot 2025-08-22 135221" src="https://github.com/user-attachments/assets/64eb9dd0-89f8-4bf0-9ce3-5a5bea735f3f" /> 
 
 ## ⚡ key Features
 - 📈 Total sales overview  
